@@ -1,4 +1,5 @@
-<h2 align="center"> Hi there, welcome to my GitHub! <img src='https://i.imgur.com/rHXHSgw.gif' width='30'> </h2>
+<h2> Hi there, welcome to my GitHub! <img src='https://i.imgur.com/rHXHSgw.gif' width='30'> </h2>
+<h3> I'm Andrea Marucci, a 22 years old Web Developer wannabe!
 
 <p> 
 <br>- 🔭 I’m currently working on my first Discord Bot
