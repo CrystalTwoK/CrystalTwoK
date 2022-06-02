@@ -8,3 +8,7 @@
   <br>- Discord: Crystal2K#0001
   <br>- Email: me@andreamarucci.com
 </p>
+  
+  
+  <a href='https://ko-fi.com/crystal2k'><img src='[https://i.imgur.com/rHXHSgw.gif](https://enlareddeltiempo.files.wordpress.com/2020/10/supportme_red402x.png)' width='20'></a>
+ 
