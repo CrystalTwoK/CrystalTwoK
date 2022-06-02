@@ -10,5 +10,5 @@
 </p>
   
   
-  <a href='https://ko-fi.com/crystal2k'><img src='https://i.imgur.com/mlovzWn.png' width='20'></a>
+  <a href='https://ko-fi.com/crystal2k'><img src='https://i.imgur.com/mlovzWn.png' width='50'></a>
  
