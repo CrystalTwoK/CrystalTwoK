@@ -2,11 +2,11 @@
 <h3> I'm <strong>Andrea Marucci</strong>, a 22 years old Web Developer wannabe!
 
 <p> 
-<br>&#8227; 🔭 I’m currently working on my first Discord Bot in Discord.js
-<br>&#8227; 🌱 I’m currently learning Web Development
-<br>&#8227; 📫 How to reach me:
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&#8227; 💬 Discord: Crystal2K#0001
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&#8227; 📧 Email: me@andreamarucci.com
+<br>&#8226; 🔭 I’m currently working on my first Discord Bot in Discord.js
+<br>&#8226; 🌱 I’m currently learning Web Development
+<br>&#8226; 📫 How to reach me:
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&#8226; 💬 Discord: Crystal2K#0001
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&#8226; 📧 Email: me@andreamarucci.com
 </p>
   
  <p> 
