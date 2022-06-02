@@ -1,5 +1,5 @@
 <h2><img src='https://i.imgur.com/rHXHSgw.gif' width='30'> Hi there, welcome to my GitHub!  </h2>
-<h3> I'm <b>Andrea Marucci</b>, a 22 years old Web Developer wannabe!
+<h3> I'm <strong>Andrea Marucci</strong>, a 22 years old Web Developer wannabe!
 
 <p> 
 <br>- 🔭 I’m currently working on my first Discord Bot
