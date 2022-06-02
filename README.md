@@ -9,6 +9,6 @@
   <br>- Email: me@andreamarucci.com
 </p>
   
-  
-  <a href='https://ko-fi.com/crystal2k'><img src='https://i.imgur.com/mlovzWn.png' width='200'></a>
- 
+ <p> 
+ <a href='https://ko-fi.com/crystal2k'><img src='https://i.imgur.com/mlovzWn.png' width='200'></a>
+ </p>
