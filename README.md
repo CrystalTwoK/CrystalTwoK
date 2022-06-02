@@ -5,8 +5,8 @@
 <br>- 🔭 I’m currently working on my first Discord Bot in Discord.js
 <br>- 🌱 I’m currently learning Web Development
 <br>- 📫 How to reach me:
-  <br>- Discord: Crystal2K#0001
-  <br>- Email: me@andreamarucci.com
+<br>&nbsp;&nbsp;&nbsp;&nbsp;- Discord: Crystal2K#0001
+<br>&nbsp;&nbsp;&nbsp;&nbsp;- Email: me@andreamarucci.com
 </p>
   
  <p> 
