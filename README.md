@@ -10,5 +10,5 @@
 </p>
   
   
-  <a href='https://ko-fi.com/crystal2k'><img src='[https://i.imgur.com/rHXHSgw.gif](https://enlareddeltiempo.files.wordpress.com/2020/10/supportme_red402x.png)' width='20'></a>
+  <a href='https://ko-fi.com/crystal2k'><img src='https://i.imgur.com/mlovzWn.png' width='20'></a>
  
