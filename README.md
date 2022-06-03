@@ -5,8 +5,8 @@
 <br>&#8226; 🔭 I’m currently working on 'Delamain' a Discord Bot inspired by Cyberpunk 2077
 <br>&#8226; 🌱 I’m currently learning Web Development
 <br>&#8226; 📫 How to reach me:
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&#8226; 💬 Discord: Crystal2K#0001
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&#8226; 📧 Email: me@andreamarucci.com
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&#8227; 💬 Discord: Crystal2K#0001
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&#8227; 📧 Email: me@andreamarucci.com
 </p>
   
  <p> 
