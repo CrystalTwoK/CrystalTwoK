@@ -2,7 +2,7 @@
 <h3> I'm <strong>Andrea</strong>, a 22 years old Esports Fanatic and Web Dev!
 
 <p> 
-<br>&#8226; 💼 I’m currently an esports specialist and project manager
+<br>&#8226; 💼 I’m an Esports Specialist and Project Manager
 <br>&#8226; 🌱 I’m currently learning lots of web dev frameworks!
 <br>&#8226; 📫 How to reach me:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&#8227; 💬 Discord: Crystal2K#0001
