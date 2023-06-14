@@ -3,10 +3,10 @@
 
 <p> 
 <br>&#8226; 💼 I’m an Esports Specialist and Project Manager
-<br>&#8226; 🌱 I’m currently learning lots of web dev frameworks!
+<br>&#8226; 🖥️ I’m currently working on a FiveM Server set in a post apocalyptic world inspired by The Last of Us videogame series!
 <br>&#8226; 📫 How to reach me:
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&#8227; 💬 Discord: Crystal2K#0001
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&#8227; 📧 Email: me@andreamarucci.com
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&#8227; 💬 Discord: @crystal2k
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&#8227; 📧 Email: me@andreamarucci.com or itscrystal2k@gmail.com
 </p>
   
  <p> 
