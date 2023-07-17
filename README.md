@@ -12,6 +12,6 @@
  <p> 
  <a href='https://ko-fi.com/crystal2k'><img src='https://i.imgur.com/mlovzWn.png' width='200'></a>
  </p>
-<p>
- [![Discord Presence](https://lanyard.cnrad.dev/api/201055147722407937)](http://discord.andreamarucci.com/)
-</p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/201055147722407937)](http://discord.andreamarucci.com/)
+
