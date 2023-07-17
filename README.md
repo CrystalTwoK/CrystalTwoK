@@ -1,7 +1,7 @@
 <h2><img src='https://i.imgur.com/rHXHSgw.gif' width='30'> Hi there, welcome to my GitHub!  </h2>
 <h3> I'm <strong>Andrea</strong>, a 23 years old Esports Project Manager and Web Dev! <br><br>
 
-<a href="http://discord.andreamarucci.com" >
+<a href="http://discord.andreamarucci.com" target="_blank">
   <img src="https://lanyard.kyrie25.me/api/201055147722407937?waveColor=ff0c27&waveSpotifyColor=ff0a10&gradient=f93751-f78e98-e5686c"/>
 </a>
 
