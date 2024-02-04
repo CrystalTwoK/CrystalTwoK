@@ -1,5 +1,5 @@
 <h2><img src='https://i.imgur.com/rHXHSgw.gif' width='30'> Hi there, welcome to my GitHub!  </h2>
-<h3> I'm <strong>Andrea</strong>, a 23 years old Esports Project Manager and Web Dev!
+<h3> I'm <strong>Andrea</strong>, a 24 years old Esports Project Manager and Web Dev!
   
 <p> 
 <br>&#8226; 💼 I’m an Esports Specialist and Project Manager
