@@ -13,5 +13,3 @@
  <a href='https://ko-fi.com/crystal2k'><img src='https://i.imgur.com/mlovzWn.png' width='200'></a>
  </p>
 
- <img src="https://lanyard-profile-readme.vercel.app/api/201055147722407937?bg=0a0f16" alt="Discord Profile"/>
-
