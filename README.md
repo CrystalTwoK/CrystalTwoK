@@ -5,6 +5,6 @@
 <br>&#8226; 💼 I currently work as Junior Software Developer in Rome, Italy!
 <br>&#8226; 📫 How to reach me:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&#8227; 💬 Discord: @crystal2k
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&#8227; 📧 Email: me@andreamarucci.com or itscrystal2k@gmail.com
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&#8227; 📧 Email: me@andreamarucci.com
 </p>
 
